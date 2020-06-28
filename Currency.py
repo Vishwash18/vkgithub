@@ -1,3 +1,5 @@
+#To find minimum number of currency to buy a product at a range of 5000
+
 a=int(input("Enter no of Test Cases"))
 def findMin(V):
     #Indian Currency
